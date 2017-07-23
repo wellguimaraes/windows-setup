@@ -13,3 +13,4 @@ choco install microsoft-build-tools -y
 choco install firacode -y
 choco install autohotkey -y
 choco install jdk8 -y
+choco install firefox -y

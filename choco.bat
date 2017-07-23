@@ -14,3 +14,6 @@ choco install firacode -y
 choco install autohotkey -y
 choco install jdk8 -y
 choco install firefox -y
+choco install skype -y
+choco install vlc -y
+choco install slack -y

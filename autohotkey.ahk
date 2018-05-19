@@ -5,4 +5,7 @@
 !^+Right::Media_Next
 !^+Left::Media_Prev
 !Left::Send {Home}
+!+Left::Send, {Shift down}{Home}{Shift up}
 !Right::Send {End}
+!+Right::Send, {Shift down}{End}{Shift up}
++PrintScreen::Run, C:\Windows\System32\SnippingTool.exe /clip
